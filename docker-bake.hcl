@@ -13,7 +13,7 @@ variable "ARCH" {
 }
 
 variable "ECR_SLUG" {
-  default = "734046833946.dkr.ecr.ap-southeast-2.amazonaws.com/buildx-push-only"
+  default = "915632791698.dkr.ecr.us-east-2.amazonaws.com/kinnontest/harnessbuild"
 }
 
 variable "GHCR_SLUG" {
