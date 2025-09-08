@@ -13,11 +13,11 @@ variable "ARCH" {
 }
 
 variable "ECR_SLUG" {
-  default = "915632791698.dkr.ecr.us-east-2.amazonaws.com/kinnontest/harnessbuild"
+  default = "915632791698.dkr.ecr.us-east-2.amazonaws.com/kinnonyee/boost-test"
 }
 
 variable "GHCR_SLUG" {
-  default = "ghcr.io/ompragash/docker-buildx-bake"
+  default = "ghcr.io/KinnonYee-harness/boost-insurance-OPTest"
 }
 
 # Base image
