@@ -17,7 +17,7 @@ variable "ECR_SLUG" {
 }
 
 variable "GHCR_SLUG" {
-  default = "ghcr.io/KinnonYee-harness/boost-insurance-OPTest"
+  default = "ghcr.io/KinnonYee-harness/boost-insurance-optest"
 }
 
 # Base image
